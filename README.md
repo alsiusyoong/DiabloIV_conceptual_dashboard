@@ -13,6 +13,7 @@ I have never used pytrends, which is the unofficial API for Google Trends. I wan
 # Scraping Reddit using PRAW
 The idea is to come up with a list of the top posts in r/diablo and see what opinions are being upvoted. There are many different ways to scrape Reddit, using the Pushshift API with PMAW or just plain and simple PRAW. Before you use PRAW, you will need to follow a series of steps to get create you Client ID and Client Secret Key. One thing to take note is that PRAW will by default, limit the number of search results to 100. However, you can set a parameter to increase that limit to 1,000. This is done using the reddit_PRAW.py file.
 
-You can learn more about the idea behind this conceptual dashboard at https://www.notion.so/aloysiusong/Diablo-IV-Conceptual-Dashboard-339924e41acd48fb9a2751452087035b?pvs=4
+
+You can learn more about the idea behind this conceptual dashboard which I created using Figma at https://www.notion.so/aloysiusong/Diablo-IV-Conceptual-Dashboard-339924e41acd48fb9a2751452087035b?pvs=4
 
 ![alt text](https://github.com/alsiusyoong/DiabloIV_conceptual_dashboard/blob/main/DiabloIV_socialMediaTracker.png)
